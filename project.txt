@@ -1,0 +1,52 @@
+<html><head>
+  <style>
+      body{
+        font-size: 20px;
+        
+      }
+      </style> 
+ </head>
+ <body> 
+  <span style="font-size:100px;" &#128512;<="" span=""> <p> i will show 😀</p> <p> i will show 😀</p></span>
+ 
+
+  
+
+
+
+
+
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+
+
+<span style="font-size:100px;">😒</span>
+<p>I am annoyed 😒</p>
+<p>I am annoyed 😒</p>
+
+
+</body></html>
+
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+<span style='font-size:100px;'>&#128527;</span>
+<p>i love the emoji &#128527;</p>
+<p>i love the emoji &#x1F60F;</p>
+
+</body>
+</html>
+ 
+ 
+
+  
+
